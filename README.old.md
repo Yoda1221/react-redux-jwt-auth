@@ -1,1 +1,0 @@
-# react-reduxjwt-auth

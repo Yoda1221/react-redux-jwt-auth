@@ -1,0 +1,18 @@
+.navbar {
+    background: $color_01 !important;
+    a {
+        color: $bgColor !important;
+
+        &:hover {
+            font-weight: 400;
+            color: $color_03 !important;
+        }
+    }
+    .navbar-brand {
+        color: $color_03 !important;
+        font-weight: 500;
+    }
+    .navbar-text {
+        color: $color_03 !important;
+    }
+}
